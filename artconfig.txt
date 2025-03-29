@@ -1,0 +1,39 @@
+AddSimpleModel(-1, 19379, -1000, "inventory.dff", "inventory.txd");
+AddSimpleModel(-1, 19379, -1001, "menu.dff", "menu.txd");
+AddCharModel(0, 20001, "concac.dff", "concac.txd");
+AddCharModel(0, 20002, "Hatsune_Miku.dff", "Hatsune_Miku.txd")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Auto Dealership - Lisiu
+AddSimpleModel(-1, 8674, -1113, "auto_dealership.dff", "auto_dealership.txd");
+AddSimpleModel(-1, 1923, -1114, "auto_dealership_road.dff", "auto_dealership_road.txd");
+
+// Underground Drift Parking - Lisiu
+AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd");
+
+// Pershing Square Park - Lisiu
+AddSimpleModel(-1, 1923, -1097, "pershing_square1.dff", "pershing_square.txd");
+AddSimpleModel(-1, 1923, -1098, "pershing_square2.dff", "pershing_square.txd");
+
+// Hospital
+AddSimpleModel(-1, 8674, -1233, "hospital2.dff", "hospital2.txd");
+
+// Mineshaft
+AddSimpleModel(-1, 1923, -1099, "mineshaft.dff", "mineshaft.txd");
+
+
+
+
