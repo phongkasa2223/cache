@@ -3,7 +3,9 @@ AddSimpleModel(-1, 19379, -1001, "menu.dff", "menu.txd");
 AddCharModel(0, 20001, "concac.dff", "concac.txd");
 AddCharModel(0, 20002, "Hatsune_Miku.dff", "Hatsune_Miku.txd")
 
-
+// May khoan khoang san
+AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd");
+AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd");
 
 
 
